@@ -1,0 +1,6 @@
+#!/bin/bash
+#Linux program 1
+date
+echo "Hello World."
+whoami
+exit 0
